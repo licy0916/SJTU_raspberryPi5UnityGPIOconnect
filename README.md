@@ -1,0 +1,2 @@
+# SJTU_raspberryPi5UnityGPIOconnect
+上海交通大學信息交互設計課程，2025春季學期，第一組樹莓派課程資料
